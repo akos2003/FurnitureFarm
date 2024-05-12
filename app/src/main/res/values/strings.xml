@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">FurnitureFarm</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Fotel1</item>
+        <item>Fotel2</item>
+        <item>Asztal1</item>
+        <item>Asztal2</item>
+        <item>Szék1</item>
+        <item>Szék2</item>
+        <item>Szekrény1</item>
+        <item>Szekrény2</item>
+        <item>Kanapé1</item>
+        <item>Kanapé2</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Ülni lehet rajta.</item>
+        <item>Nagyon kényelmes.</item>
+        <item>Ehetsz rajta.</item>
+        <item>Jó játszani fölötte.</item>
+        <item>Erre is lehet ülni.</item>
+        <item>Olcsó szék.</item>
+        <item>Rakhatsz bele bármit.</item>
+        <item>Jól tárol ruhákat.</item>
+        <item>Kényelmes fekvőhely.</item>
+        <item>Többen is tudtok rajta ülni.</item>
+    </string-array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/fotel1</item>
+        <item>@drawable/fotel2</item>
+        <item>@drawable/asztal1</item>
+        <item>@drawable/asztal2</item>
+        <item>@drawable/szek1</item>
+        <item>@drawable/szek2</item>
+        <item>@drawable/szekreny1</item>
+        <item>@drawable/szekreny2</item>
+        <item>@drawable/kanape1</item>
+        <item>@drawable/kanape2</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>30.000Ft</item>
+        <item>25.000Ft</item>
+        <item>16.000Ft</item>
+        <item>18.000Ft</item>
+        <item>8.000Ft</item>
+        <item>1.500Ft</item>
+        <item>50.000Ft</item>
+        <item>39.000Ft</item>
+        <item>73.000Ft</item>
+        <item>68.000Ft</item>
+    </array>
+</resources>
